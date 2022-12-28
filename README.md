@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Some facts about me:
-- 🔭 I’m currently working on my Github page.
+- 🔭 I’m currently migrating all my projects to Github.
 - 🌱 I’m currently learning about low-level networking.
 - 💬 Currently a student at Auburn.
 - ⚡ Fun fact: Winter is my favorite season.
