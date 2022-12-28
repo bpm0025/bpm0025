@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Some facts about me:
 - 🔭 I’m currently migrating all my projects to Github.
-- 🌱 I’m currently learning about low-level networking.
-- 💬 Currently a student at Auburn.
+- 🌱 I’m currently taking a break on winter vacation.
+- 💬 Currently a junior at Auburn University.
 - ⚡ Fun fact: Winter is my favorite season.
+
+- Look forward to working with you. Thanks for stopping by!
