@@ -1,4 +1,4 @@
-### Hi there 👋
+### Basil Moledina 
 
 <!--
 **bpm0025/bpm0025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Some facts about me:
+- 🔭 I’m currently working on my Github page.
+- 🌱 I’m currently learning about low-level networking.
+- 💬 Currently a student at Auburn.
+- ⚡ Fun fact: Winter is my favorite season.
