@@ -16,11 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-
-## Some facts about me:
-- 🔭 I’m currently migrating all my projects to Github.
-- 🌱 Taking a break on winter vacation.
-- 💬 Junior at Auburn University.
-- ⚡ Fun fact: Winter and fall are my favorite seasons.
-
-- Look forward to working with you. Thanks for stopping by!
